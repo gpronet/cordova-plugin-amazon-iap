@@ -1,0 +1,55 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-amazon-iap@2.0.1",
+      "C:\\Users\\John Dodget\\Documents\\GitHub\\gproapp2"
+    ]
+  ],
+  "_from": "cordova-plugin-amazon-iap@2.0.1",
+  "_id": "cordova-plugin-amazon-iap@2.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-aWH0WNXJlunNBUScPbNaax9KVyzyqjZX9njjwiX3DDes1BA9i7gHcr2/RmcLjOsLr50xL+higFuez0m4l4pTcg==",
+  "_location": "/cordova-plugin-amazon-iap",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cordova-plugin-amazon-iap@2.0.1",
+    "name": "cordova-plugin-amazon-iap",
+    "escapedName": "cordova-plugin-amazon-iap",
+    "rawSpec": "2.0.1",
+    "saveSpec": null,
+    "fetchSpec": "2.0.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-amazon-iap/-/cordova-plugin-amazon-iap-2.0.1.tgz",
+  "_spec": "2.0.1",
+  "_where": "C:\\Users\\John Dodget\\Documents\\GitHub\\gproapp2",
+  "author": {
+    "name": "Amazon"
+  },
+  "bugs": {
+    "url": "https://github.com/chuchuva/cordova-plugin-amazon-iap/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-amazon-iap",
+    "platforms": [
+      "android"
+    ]
+  },
+  "description": "Amazon In-App Purchasing",
+  "homepage": "https://github.com/chuchuva/cordova-plugin-amazon-iap#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "Apache-2.0",
+  "name": "cordova-plugin-amazon-iap",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuchuva/cordova-plugin-amazon-iap.git"
+  },
+  "version": "2.0.1"
+}
